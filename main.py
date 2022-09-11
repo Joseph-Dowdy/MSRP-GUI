@@ -1,12 +1,3 @@
-"""
-Joseph Dowdy
-MIS 315, Summer 1st Session 2022 - Section 1
-7/1/22
-Final Assignment, MSRP Comparison Project
-I, Joseph Dowdy, can attest that this script is my work and my work alone, enjoy! :-)
-
-Please refer to my submitted word doc for more details on this project.
-"""
 
 # -------------------------------------------------- Imports ---------------------------------------------------------#
 import csv
